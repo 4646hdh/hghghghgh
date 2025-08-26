@@ -1,4 +1,4 @@
- name: Check and Download New Release
+name: Check and Download New Release
 
 on:
   schedule:
